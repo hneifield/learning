@@ -1,1 +1,2 @@
-this is another file 4.26 that I added to my project
+this is another file 4.26 that I added to my project.
+Here I added a second line.
